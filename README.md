@@ -1,4 +1,4 @@
-#Auto_Feeding_Machine
+# Auto_Feeding_Machine
 
 
 Đây là thành phần cốt lõi của dự án AquaNova, chịu trách nhiệm thu thập dữ liệu cảm biến, xử lý logic điều khiển tại chỗ và quản lý cơ cấu chấp hành cho hệ thống hồ cá thông minh.
@@ -82,6 +82,7 @@ Thời gian khởi động: 8–10 giây.
 Độ trễ truyền dữ liệu nội bộ (UART): Khoảng 2–4 ms.
 
 Tần suất cập nhật cảm biến: Mặc định 10 phút/lần (có thể cấu hình lại).
+
 
 
 
